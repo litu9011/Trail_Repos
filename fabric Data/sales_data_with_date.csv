@@ -1,0 +1,11 @@
+Region,Category,SubCategory,Sales,Quantity,Date
+East,Technology,Phones,1200,5,2025-06-26 08:50:22.629582
+East,Technology,Laptops,2500,3,2025-06-21 08:50:22.629604
+West,Technology,Phones,1500,4,2025-06-16 08:50:22.629609
+West,Furniture,Chairs,800,10,2025-06-11 08:50:22.629613
+East,Furniture,Tables,900,2,2025-06-06 08:50:22.629617
+South,Office Supplies,Binders,300,6,2025-06-01 08:50:22.629621
+South,Office Supplies,Paper,200,10,2025-05-27 08:50:22.629625
+North,Technology,Laptops,1800,2,2025-05-22 08:50:22.629630
+North,Furniture,Chairs,600,4,2025-05-17 08:50:22.629635
+West,Office Supplies,Binders,350,5,2025-05-12 08:50:22.629639
