@@ -76,5 +76,19 @@
     "validity_years": 2,
     "cost_usd": 125,
     "last_updated": "2024-01-01"
+  },
+   {
+    "Name": "Omkar G",
+    "provider": "GCP",
+    "certification_id": "ACE",
+    "certification_name": "Associate Cloud Engineer",
+    "level": "Associate",
+    "role": "Cloud Engineer",
+    "technology": "GCP",
+    "exam_code": "ACE",
+    "validity_years": 2,
+    "cost_usd": 125,
+    "last_updated": "2024-01-01"
   }
 ]
+
