@@ -78,7 +78,7 @@
     "last_updated": "2024-01-01"
   },
    {
-    "Name": "Omkar G",
+    "Name": "Omkar G Duplicate",
     "provider": "GCP",
     "certification_id": "ACE",
     "certification_name": "Associate Cloud Engineer",
@@ -91,4 +91,5 @@
     "last_updated": "2024-01-01"
   }
 ]
+
 
